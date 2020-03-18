@@ -1,5 +1,5 @@
 Flask Hello World application
 =============================
 
-This is the Flask Hello World application shamelessly copied from
-http://flask.pocoo.org/docs/quickstart/.
+Here is the video how to run it with jenkins: 
+https://www.youtube.com/watch?v=hgfi74FwjIw
